@@ -6,6 +6,8 @@
 
 ---
 ## About me!
+I really love coding and hacking! I spend quite a lot of time in improving my hacking skills with kali-linux.
+Math is also my interest! I love solving math problems a lot.
 ---
 ## 🚀 What I Do  
 - 🧮 Competitive programming (C++)  
