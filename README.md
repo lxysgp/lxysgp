@@ -19,10 +19,10 @@
 
 ###
 
-# 👋 Hi, I'm Li Xinyuan  
+# 👋 Hi, I'm [Li Xinyuan](https://lxysgp.github.io/)  
 
 💻 **Student**  
-📍 Based in Singapore | 🧪 NUS High • NUSHDev  
+📍 Based in Singapore | 🧪 [NUS High](https://nushigh.edu.sg) • [NUSHDev](https://github.com/nushdev)  
 ⚡ Into math, code, and the occasional chaos of side projects  
 
 ---
@@ -33,7 +33,7 @@ Math is also my interest! I love solving math problems a lot.
 ## 🚀 What I Do  
 - 🧮 Competitive programming (C++)  
 - 🌐 Web dev
-- 📊 Educational tools for my school community (timetable trackers, GPA calcs, bus widgets)  
+- 📊 Educational tools for my school community (timetable trackers, [GPA calcs](https://gpa-chi.vercel.app/), [bus widgets](https://github.com/lxysgp/nushbus))  
 - 🏗️ Creative experiments ([turtle pixel art](https://github.com/lxysgp/image-to-turtle/), [wordle solver](https://wordle-inky-xi.vercel.app))
 
 ---
@@ -96,7 +96,7 @@ Math is also my interest! I love solving math problems a lot.
 
 📫 Connect  
 - 💌 [Email me](h2510079@nushigh.edu.sg)  
-- 🌐 [NUSHDev Projects](https://nushdev.github.io/)  
+- 🌐 [NUSHDev Projects](https://github.com/nushdev/)  
 
 ###
 
