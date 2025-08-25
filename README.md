@@ -27,8 +27,8 @@
 
 ---
 ## About me!
-I really love coding and hacking! I spend quite a lot of time in improving my hacking skills with kali-linux.
-Math is also my interest! I love solving math problems a lot.
+I really love coding and hacking. I spend quite a lot of time in improving my hacking skills with kali-linux.
+Math is also my interest. I love solving math problems a lot!
 ---
 ## 🚀 What I Do  
 - 🧮 Competitive programming (C++)  
@@ -37,10 +37,12 @@ Math is also my interest! I love solving math problems a lot.
 - 🏗️ Creative experiments ([turtle pixel art](https://github.com/lxysgp/image-to-turtle/), [wordle solver](https://wordle-inky-xi.vercel.app))
 
 ---
+### Here are some things I found interesting/useful:
+- [zero-md](https://github.com/zerodevx/zero-md) lets you embed and render Markdown files directly in HTML with one simple tag
+- [hexauth](https://hexauth.coding398.dev/) a free, managed service that lets you add “Sign in with…” OAuth providers in minutes
+- [the evolution of trust](https://ncase.me/trust/) interactive, browser-based explainer that uses game theory
 
-
-
-
+Heres a [link](https://www.stoponlineidchecks.org/#sign) or [two](https://www.makedmssafe.com/) for you to look at!
 ###
 
 <div align="center">
