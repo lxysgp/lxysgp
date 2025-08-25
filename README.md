@@ -34,7 +34,7 @@ Math is also my interest! I love solving math problems a lot.
 - 🧮 Competitive programming (C++)  
 - 🌐 Web dev
 - 📊 Educational tools for my school community (timetable trackers, GPA calcs, bus widgets)  
-- 🏗️ Creative experiments (turtle pixel art, wordle solver)
+- 🏗️ Creative experiments ([turtle pixel art](https://github.com/lxysgp/image-to-turtle/), [wordle solver](https://wordle-inky-xi.vercel.app))
 
 ---
 
